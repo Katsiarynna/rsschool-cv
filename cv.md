@@ -46,10 +46,8 @@ ___
 +	Besides the technical aspects of teaching music,  I also focused on motivating and encourage my students to pursue their talent  and continue their learning path to become good musicians. 
 +	When students were minors, I was in charge of the relationship between the school and their parents to showcase their progress.
 	
-
 ---
 	
-
 ## EDUCATION
 	
 #### F. Nowowiejski Music Academy Bydgoszcz, Poland _2016-2018_
