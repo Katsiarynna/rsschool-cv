@@ -14,7 +14,6 @@ ___
 ##### rs school nickname
 ###### _Katsiarynna(@Katsiarynna)
 	
-
 ---
 ## CAREER OBJECTIVE
 ##### Master in music with 10 years of experience working as a music teacher for music schools. 
@@ -53,23 +52,18 @@ ___
 
 ## EDUCATION
 	
-
 #### F. Nowowiejski Music Academy Bydgoszcz, Poland _2016-2018_
 _Masters in strings instruments, Specialization in Lute_
 	
-
 #### F. Nowowiejski Music Academy Bydgoszcz, Poland _2013-2016_
 _Bachelor in strings instruments, Specialization in Lute_
 	
-
 #### Mikhail Glinka Musical College Minsk, Belarus  _2004-2008_
 _Graduate in strings instruments, Specialization in Classical Guitar_
 	
-
 ---
 ## RELEVANT SKILLS
 	
-
 ###### Data Analytics 
 ###### Customer Service
 ###### Leadership
