@@ -1,26 +1,30 @@
 html {
     font-family: Roboto, sans-serif;
+    margin: 2em;
 }
 
 body {
     min-height: 100vh;
-    margin: 0; padding: 0;
-} 
-
-header {
-    border: 1px solid ;
- }
+    margin: 50px; 
+    border: 3px solid rgb(23, 59, 23);
+}
+h1 {
+  margin-left: 200px;
+  margin-right: 150px;
+}
+.person {
+  display: flex;
+  text-align: center;
+}
 
  @font-face {
     font-family: Roboto;
      src: url("assets/fonts/Roboto.ttf");
    }
 
-main {
-    border: 1px solid red;
-}
 footer {
-    border: 1px solid red;
+    border: 1px solid rgb(12, 75, 68);
+    
 }
 
 
@@ -38,9 +42,6 @@ footer {
 
   }
 
-image {
-    background-image: url();
-}
 
 h1 {
 
@@ -60,50 +61,46 @@ h3 {
 }
 
 a {
-    color:green;
+    color:rgb(137, 209, 79);
 }
 
 .contacts {
     margin-bottom: 2em;
 }
 
-.contact {
-    display: flex;
-        min-width: 90px;
 
+.skills {
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  color: #5d7260;
+}
 
+.experience__name {
+  margin-left: 100px;
 }
 
 .experience {
     display: flex;
     margin-bottom: 2em;
-
-        min-width: 185px;
-        margin-bottom: 1em;
-
-
-
-        font-weight: bold;
-
 }
-.RELEVANT SKILLS {
-    display: flex;
-    margin-bottom: 2em;
 
-        min-width: 185px;
-        margin-bottom: 1em;
+.experience__company {
+  margin-left: 100px;
+}
+.experience__date {
+  width: 120px;
+}
 
-        font-weight: bold;
-
+li{
+  font-style: italic;
+}
+.education__description {
+  margin-left: 100px;
 }
 
 .education {
     display: flex;
     margin-bottom: 2em;
-        min-width: 185px;
-        margin-bottom: 1em;
-
-        font-weight: bold;
     }
 
 @font-face {
@@ -111,28 +108,19 @@ a {
     src: url("assets/fonts/RobotoThin.ttf");
     font-weight: 100;
   }
-  @font-face {
+@font-face {
     font-family: 'Roboto';
     src: url("assets/fonts/RobotoRegular.ttf");
     font-weight: 300;
   }
 
-  body {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    min-height: 100vh;
-    margin: 0; padding: 0;
-  }
+  
   .nav-list {
     display: flex;
     justify-content: flex-end;
     align-items: center;
   }
 
-  html {
-    scroll-behavior: smooth; 
-  }
   .nav-list {
     list-style: none;
   }
@@ -143,12 +131,7 @@ a {
   .nav-link {
     transition: .3s;
   }
-  .link {
-    text-decoration: none;
-    color: #829985;
-    transition: color 0.5s;
+  .project {
+    border: 3px solid rgb(23, 59, 23);
   }
-  
-  .link:hover {
-    color: #5d7260;
-  }
+
