@@ -1,4 +1,8 @@
-$primary-color:blue;
+body {
+  background-color: #829985;
+  
+
+}
 $secondary-color:black;
 
 
@@ -47,7 +51,7 @@ image {
 }
 
 h1 {
-    color:$primary-color;
+
     margin-bottom: 0.25em;
 }
 
@@ -56,15 +60,15 @@ h2 {
     font-size: 1em;
     margin-top: 0;
     margin-bottom: 1em;
-    background-color: green($color: #000000);
+    background-color: green;
 }
 h3 {
-    color: $primary-color
+    color: $primary-color;
     background-color #5d7260
 }
 
 a {
-    color:$primary-color
+    color:$primary-color;
 }
 
 .contacts {
