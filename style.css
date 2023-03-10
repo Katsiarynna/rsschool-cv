@@ -2,7 +2,6 @@ html {
   font-family: Roboto, sans-serif;
   margin: 2em;
 }
-
 body {
   min-height: 100vh;
   margin: 50px; 
@@ -16,38 +15,26 @@ margin-right: 150px;
 display: flex;
 text-align: center;
 }
-
 @font-face {
   font-family: Roboto;
    src: url("assets/fonts/Roboto.ttf");
  }
-
 footer {
-  border: 1px solid rgb(12, 75, 68);
-  
+  border: 1px solid rgb(12, 75, 68);  
 }
-
-
 .container {
   max-width: 1440px;
   margin: 0 auto;
 }
-
 * {
   color: black;
 }
-
 * {
   box-sizing: border-box;
-
 }
-
-
 h1 {
-
   margin-bottom: 0.25em;
 }
-
 h2 {
   color: black;
   font-size: 1em;
@@ -63,46 +50,37 @@ h3 {
 a {
   color:rgb(137, 209, 79);
 }
-
 .contacts {
   margin-bottom: 2em;
 }
-
-
 .skills {
 font-size: large;
 font-family: 'Times New Roman', Times, serif;
 color: #5d7260;
 }
-
 .experience__name {
 margin-left: 100px;
 }
-
 .experience {
   display: flex;
   margin-bottom: 2em;
 }
-
 .experience__company {
 margin-left: 100px;
 }
 .experience__date {
 width: 120px;
 }
-
 li{
 font-style: italic;
 }
 .education__description {
 margin-left: 100px;
 }
-
 .education {
   display: flex;
   margin-bottom: 2em;
-  }
-
+}
 @font-face {
   font-family: 'Roboto';
   src: url("assets/fonts/RobotoThin.ttf");
@@ -113,14 +91,11 @@ margin-left: 100px;
   src: url("assets/fonts/RobotoRegular.ttf");
   font-weight: 300;
 }
-
-
 .nav-list {
   display: flex;
   justify-content: flex-end;
   align-items: center;
 }
-
 .nav-list {
   list-style: none;
 }
