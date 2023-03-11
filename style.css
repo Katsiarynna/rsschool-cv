@@ -46,8 +46,10 @@ h3 {
   color: black;
   background-color: #5d7260;
 }
-image {
+.photo {
   align-items:flex-end;
+  width: 100px;
+  height: 100px;
 }
 
 a {
