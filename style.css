@@ -46,6 +46,9 @@ h3 {
   color: black;
   background-color: #5d7260;
 }
+image {
+  align-items:flex-end;
+}
 
 a {
   color:rgb(137, 209, 79);
