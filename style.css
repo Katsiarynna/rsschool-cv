@@ -17,7 +17,7 @@ text-align: center;
 }
 @font-face {
   font-family: Roboto;
-   src: url("assets/fonts/Roboto.ttf");
+  src: url("assets/fonts/Roboto.ttf");
  }
 footer {
   border: 1px solid rgb(12, 75, 68);  
@@ -60,28 +60,28 @@ a {
   margin-bottom: 2em;
 }
 .skills {
-font-size: large;
-font-family: 'Times New Roman', Times, serif;
-color: #5d7260;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  color: #5d7260;
 }
 .experience__name {
-margin-left: 100px;
+  margin-left: 100px;
 }
 .experience {
   display: flex;
   margin-bottom: 2em;
 }
 .experience__company {
-margin-left: 100px;
+  margin-left: 100px;
 }
 .experience__date {
-width: 120px;
+  width: 120px;
 }
 li{
-font-style: italic;
+  font-style: italic;
 }
 .education__description {
-margin-left: 100px;
+  margin-left: 100px;
 }
 .education {
   display: flex;
