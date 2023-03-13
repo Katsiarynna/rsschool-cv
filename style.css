@@ -17,12 +17,12 @@ footer {
   padding: 50px 50px 50px 50px;
 }
 h1 {
-margin-left: 200px;
-margin-right: 150px;
+  margin-left: 200px;
+  margin-right: 150px;
 }
 .person {
-display: flex;
-text-align: center;
+  display: flex;
+  text-align: center;
 }
 @font-face {
   font-family: Roboto;
