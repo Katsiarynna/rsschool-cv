@@ -45,6 +45,12 @@ h2 {
 h3 {
   color: black;
   background-color: #5d7260;
+
+}
+.photo {
+  align-items:flex-end;
+  width: 100px;
+  height: 100px;
 }
 
 a {
@@ -109,3 +115,4 @@ margin-left: 100px;
 .project {
   border: 3px solid rgb(23, 59, 23);
 }
+
